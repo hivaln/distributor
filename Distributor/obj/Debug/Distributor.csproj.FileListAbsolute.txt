@@ -1,0 +1,7 @@
+D:\Documents\ASOI\Distributor\Distributor\bin\Debug\Distributor.exe.config
+D:\Documents\ASOI\Distributor\Distributor\bin\Debug\Distributor.exe
+D:\Documents\ASOI\Distributor\Distributor\bin\Debug\Distributor.pdb
+D:\Documents\ASOI\Distributor\Distributor\obj\Debug\Distributor.csproj.AssemblyReference.cache
+D:\Documents\ASOI\Distributor\Distributor\obj\Debug\Distributor.csproj.CoreCompileInputs.cache
+D:\Documents\ASOI\Distributor\Distributor\obj\Debug\Distributor.exe
+D:\Documents\ASOI\Distributor\Distributor\obj\Debug\Distributor.pdb
